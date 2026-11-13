@@ -1,4 +1,3 @@
-# NIFTY50-FNO-Volatility-Analysis
 # Impact of Futures & Options Trading on NIFTY 50 Volatility
 
 ## Project Overview
